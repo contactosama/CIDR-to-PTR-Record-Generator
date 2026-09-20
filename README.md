@@ -13,7 +13,7 @@ The script asks for an IP pool in CIDR notation, calculates the complete IP rang
 * Saves the generated records to the user's `Downloads` folder.
 * Uses the following hostname format:
 
-corp-khi-<last-octet>-<third-octet>.abc.com.
+corp-khi-last-octet-third-octet.abc.com.
 
 ## Requirements
 * Windows
